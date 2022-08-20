@@ -1,0 +1,132 @@
+body {
+    font-family: 'Merriweather', serif;
+    
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 70px;
+}
+
+h2 {
+    text-align: center;
+}
+
+hr {
+    border: dotted #3F72AF 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 50px auto;
+  }
+
+/* Header */
+.title-header {
+    padding: 3% 12%;
+    line-height: 1.5;
+    background-color: #B2C8DF;
+    color: #F8F9D7;
+}
+
+.title h1 {
+    text-align: center;
+}
+
+.image-header {
+    width: 80%;
+}
+
+.row {
+    padding-top: 5%;
+}
+ 
+/* Navbar */
+
+.nav-link {
+    color: #6E85B7;
+    font-size: 18px;
+}
+
+.nav-item {
+    padding: 0 4%;
+}
+
+
+.about {
+    padding: 3% 15% 5%;
+    text-align: center;
+}
+.about h2 {
+    color: #6E85B7;
+    font-weight: bold;
+}
+.about p{
+    padding-top: 3%;
+    font-weight: 200;
+    font-size: 1.3rem;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    margin-bottom: 3%;
+}
+
+/* skills */
+
+.skill {
+    padding: 3% 5% 0 5%;
+    text-align: center;
+    font-weight: 200;
+}
+
+.skill-color {
+    padding: 5% 0;
+}
+
+#skills p{
+    font-weight: 200;
+    font-size: 1.3rem;
+}
+
+#skills h2 {
+    color: #6E85B7;
+    font-weight: bold;
+}
+
+#skills h6{
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #3F72AF;
+
+}
+
+#projects {
+    text-align: center;
+    padding: 7% 0;
+    line-height: 2;
+    background-color: #B2C8DF;
+}
+#projects h2 {
+    font-weight: 300;
+}
+
+.padd {
+    padding-bottom: 18px;
+    color: #6E85B7;
+    font-weight: bold;
+}
+
+#footer {
+    text-align: center;
+
+}
+.copyright {
+    font-size: 1rem;
+    padding-top: 2%;
+}
+
+.social {
+    color: #3F72AF;
+    /* padding: ; */
+    margin: 3% 5%;
+}
